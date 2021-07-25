@@ -1,6 +1,10 @@
 import requests
 import matplotlib.pyplot as plt
 
+'''
+Data Source
+https://covidtracking.com/data/api
+'''
 
 r = requests.get('https://api.covidtracking.com/v1/us/daily.json')
 d = r.json()
