@@ -13,14 +13,19 @@
 
 ### Kaggle
 
--   Indexing, Selecting & Assigning 
+-   Indexing, Selecting & Assigning
 
     https://www.kaggle.com/centrodph/exercise-indexing-selecting-assigning
 
-    
 
--   Summary Functions and Maps 
+
+-   Summary Functions and Maps
 
     https://www.kaggle.com/centrodph/exercise-summary-functions-and-maps
 
     https://github.com/centrodph/datacamp/blob/master/Wine_exercise/exercise-indexing-selecting-assigning.ipynb
+
+
+### Practice
+
+-   https://github.com/centrodph/datacamp/blob/master/medals_weights/medals.ipynb
